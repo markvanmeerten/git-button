@@ -7,7 +7,6 @@ const motds = [
     "More than 500 sold!",
     "Holy cow, man!",
     "The bee's knees!",
-    "Ceci n'est pas une title screen!",
 ];
 
 const getRandomInt = function(min, max) {
