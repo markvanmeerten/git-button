@@ -7,6 +7,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: blue;
 }
 
 #MOTD {
@@ -15,11 +16,11 @@ body {
 
 #myButton {
     color: black;
-    background-color: lightgray;
+    background-color: white;
     font-weight: bold;
 }
 
 #myMessage {
-    color: black;
-    text-shadow: 1px 1px 4px grey;
+    color: red;
+    text-shadow: 1px 1px 4px orange;
 }
